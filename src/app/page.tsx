@@ -80,7 +80,7 @@ export default function LandingPage() {
       useInvertedBackground={true}
       title="Where Grit Meets Innovation"
       description="Our gym is designed for high-performance training. With 10,000 sq. ft. of space and state-of-the-art rigging, we offer the optimal environment for every athlete, regardless of skill level."
-      imageSrc="http://img.b2bpic.net/free-photo/business-colleagues-banner-concept-with-copy-space_23-2149601492.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/business-colleagues-banner-concept-with-copy-space_23-2149601492.jpg?_wi=1"
       imageAlt="crossfit gym interior"
     />
   </div>
@@ -167,7 +167,7 @@ export default function LandingPage() {
         {
           id: "pro",          title: "Elite Athlete",          price: "$199",          period: "monthly",          features: ["Unlimited classes", "Personal programming", "Quarterly check-ins", "Open Gym access"],
           button: { text: "Go Pro", href: "contact" },
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-muscular-sportsman_171337-9450.jpg",          imageAlt: "Portrait of muscular handsome man in wetsuit and with cloud of talc around over dark background."
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-muscular-sportsman_171337-9450.jpg?_wi=1",          imageAlt: "Portrait of muscular handsome man in wetsuit and with cloud of talc around over dark background."
         }
       ]}
       title="Membership Plans"
@@ -180,11 +180,11 @@ export default function LandingPage() {
       textboxLayout="split"
       useInvertedBackground={false}
       testimonials={[
-        { id: "t1", name: "Alex R.", date: "Jan 2024", title: "Athlete", quote: "Life-changing experience.", tag: "Transformation", avatarSrc: "http://img.b2bpic.net/free-photo/young-adult-doing-indoor-sport-gym_23-2149205541.jpg", imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-muscular-sportsman_171337-9450.jpg" },
+        { id: "t1", name: "Alex R.", date: "Jan 2024", title: "Athlete", quote: "Life-changing experience.", tag: "Transformation", avatarSrc: "http://img.b2bpic.net/free-photo/young-adult-doing-indoor-sport-gym_23-2149205541.jpg", imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-muscular-sportsman_171337-9450.jpg?_wi=2" },
         { id: "t2", name: "Maria K.", date: "Feb 2024", title: "Member", quote: "Best coaching I've ever had.", tag: "Elite", avatarSrc: "http://img.b2bpic.net/free-photo/smiling-afro-american-sports-man-with-arms-folded-looking-camera_171337-8257.jpg", imageSrc: "http://img.b2bpic.net/free-photo/portrait-athlete-competing-olympic-games-tournament_23-2151470969.jpg" },
         { id: "t3", name: "John S.", date: "Mar 2024", title: "Member", quote: "The community keeps me coming back.", tag: "Community", avatarSrc: "http://img.b2bpic.net/free-photo/portrait-female-athlete-competing-olympic-games_23-2151450284.jpg", imageSrc: "http://img.b2bpic.net/free-photo/portrait-young-handsome-sportsman-holds-hand-chin-dark-background_613910-19200.jpg" },
         { id: "t4", name: "Lisa B.", date: "Apr 2024", title: "Member", quote: "I've never felt stronger.", tag: "Strength", avatarSrc: "http://img.b2bpic.net/free-photo/portrait-confident-thai-boxers_107420-64995.jpg", imageSrc: "http://img.b2bpic.net/free-photo/black-white-portrait-athlete-participating-olympic-championship-sports_23-2151500654.jpg" },
-        { id: "t5", name: "David W.", date: "May 2024", title: "Member", quote: "Highly recommended gym.", tag: "Support", avatarSrc: "http://img.b2bpic.net/free-photo/two-boxer-practicing-boxing-fitness-studio_107420-65155.jpg", imageSrc: "http://img.b2bpic.net/free-photo/business-colleagues-banner-concept-with-copy-space_23-2149601492.jpg" }
+        { id: "t5", name: "David W.", date: "May 2024", title: "Member", quote: "Highly recommended gym.", tag: "Support", avatarSrc: "http://img.b2bpic.net/free-photo/two-boxer-practicing-boxing-fitness-studio_107420-65155.jpg", imageSrc: "http://img.b2bpic.net/free-photo/business-colleagues-banner-concept-with-copy-space_23-2149601492.jpg?_wi=2" }
       ]}
       title="Athlete Stories"
       description="What our community has to say about their transformation."
